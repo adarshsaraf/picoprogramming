@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/adarsh/Desktop/Projects/Pico_lect/codes/ex-1/build/pico-sdk/src/rp2040/boot_stage2/CMakeFiles/picotoolBuild
+/home/adarsh/Desktop/Projects/Pico_lect/codes/ex-1/build/pico-sdk/src/rp2040/boot_stage2/CMakeFiles/picotoolBuild.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/ex-1/build/pico-sdk/src/rp2040/boot_stage2/CMakeFiles/picotoolBuild-complete.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/ex-1/build/pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/ex-1/build/pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/ex-1/build/pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/ex-1/build/pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/ex-1/build/pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/ex-1/build/pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/ex-1/build/pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/ex-1/build/pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

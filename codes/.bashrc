@@ -1,0 +1,1 @@
+export PICO_SDK_PATH=/home/adarsh/pico/pico-sdk

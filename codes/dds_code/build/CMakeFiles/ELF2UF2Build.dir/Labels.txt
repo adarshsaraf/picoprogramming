@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/home/adarsh/Desktop/Projects/Pico_lect/codes/dds_code/build/CMakeFiles/ELF2UF2Build
+/home/adarsh/Desktop/Projects/Pico_lect/codes/dds_code/build/CMakeFiles/ELF2UF2Build.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/dds_code/build/CMakeFiles/ELF2UF2Build-complete.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/dds_code/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/dds_code/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/dds_code/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/dds_code/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/dds_code/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/dds_code/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/home/adarsh/Desktop/Projects/Pico_lect/codes/dds_code/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule

@@ -1,0 +1,3 @@
+/home/adarsh/Desktop/Projects/Pico_lect/codes/dds_code/build/pioasm/CMakeFiles/pioasm.dir
+/home/adarsh/Desktop/Projects/Pico_lect/codes/dds_code/build/pioasm/CMakeFiles/edit_cache.dir
+/home/adarsh/Desktop/Projects/Pico_lect/codes/dds_code/build/pioasm/CMakeFiles/rebuild_cache.dir
