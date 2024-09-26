@@ -3,16 +3,26 @@
         {
             "name": "Linux",
             "includePath": [
-                "/home/adarsh/pico/pico-sdk",
-                "/home/adarsh/pico/pico-sdk/src/common/pico_stdlib/include",
-                "/home/adarsh/pico/pico-sdk/src/boards/include/boards",
-                "/home/adarsh/pico/pico-sdk/src/rp2_common/pico_stdio/include"
+                "/home/adarsh/pi/pico/pico-sdk/src/common/pico_stdlib_headers/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
-            "cStandard": "c17",
+            "cStandard": "c11",
             "cppStandard": "gnu++17",
-            "intelliSenseMode": "linux-gcc-x64"
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerArgs": [],
+            "browse": {
+                "path": [
+                    "/home/adarsh/pi/pico/pico-sdk",
+                    "/home/adarsh/pi/pico/pico-sdk/src/common/pico_stdlib_headers/include",
+                    "/home/adarsh/pi/pico/pico-sdk/src/boards/include/boards",
+                    "/home/adarsh/pi/pico/pico-sdk/src/host/pico_stdio/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "compilerPathInCppPropertiesJson": "/usr/bin/gcc-13",
+            "compileCommandsInCppPropertiesJson": "",
+            "mergeConfigurations": false
         },
         {
             "name": "testing",

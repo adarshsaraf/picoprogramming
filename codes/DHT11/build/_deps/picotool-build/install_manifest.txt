@@ -1,0 +1,5 @@
+/home/adarsh/Desktop/Projects/Pico_lect/codes/DHT11/build/_deps/picotool/picotool
+/home/adarsh/Desktop/Projects/Pico_lect/codes/DHT11/build/_deps/picotool/picotoolTargets.cmake
+/home/adarsh/Desktop/Projects/Pico_lect/codes/DHT11/build/_deps/picotool/picotoolTargets-release.cmake
+/home/adarsh/Desktop/Projects/Pico_lect/codes/DHT11/build/_deps/picotool/picotoolConfig.cmake
+/home/adarsh/Desktop/Projects/Pico_lect/codes/DHT11/build/_deps/picotool/picotoolConfigVersion.cmake
